@@ -1,0 +1,86 @@
+
+{
+  "project": {
+    "title": "கடைசி பேருந்து",
+    "english_title": "The Last Bus",
+    "genre": "Tamil Supernatural Horror",
+    "duration": "10 seconds",
+    "platform": "Instagram Reels",
+    "aspect_ratio": "9:16",
+    "language": "Tamil",
+    "target_audience": "Tamil horror story lovers"
+  },
+  "scala": {
+    "subject": {
+      "main_character": "A lonely 35-year-old Tamil village bus driver wearing a faded khaki uniform",
+      "ghost": "A pale, motionless passenger with wet hair, an old saree and unnaturally dark eyes",
+      "emotion": "Fear, confusion and supernatural dread"
+    },
+    "composition": {
+      "camera": "Cinematic handheld camera",
+      "shots": [
+        "0-3 seconds: Wide shot of an old government-style bus travelling through a deserted village road at midnight",
+        "3-6 seconds: Close-up of the driver looking into the rear-view mirror and noticing a ghostly woman in the last seat",
+        "6-8 seconds: Extreme close-up of the mirror as the ghost slowly smiles",
+        "8-10 seconds: The driver turns around, but the driver's seat is suddenly empty; a ghostly voice whispers"
+      ],
+      "framing": "Vertical cinematic composition, foreground shadows and deep background",
+      "lighting": "Dim yellow bus lights, cold blue moonlight and occasional lightning"
+    },
+    "action": {
+      "sequence": "The bus moves slowly through thick midnight fog. The driver notices a mysterious woman in the rear-view mirror. She smiles without moving her body. He turns around in terror. The driver's seat is empty, and the bus continues moving by itself.",
+      "ending": "A whisper comes from behind the camera: 'அடுத்த நிறுத்தம்... உன் வீடு!'"
+    },
+    "location": {
+      "place": "A deserted rural road near Thiruvallur, Tamil Nadu",
+      "environment": "Old roadside banyan tree, abandoned bus stop, paddy fields, mist and distant temple silhouette",
+      "time": "3:00 AM",
+      "weather": "Foggy, humid and slightly windy"
+    },
+    "aesthetic": {
+      "visual_style": "Photorealistic South Indian supernatural horror",
+      "colour_palette": [
+        "Dark midnight blue",
+        "Ash grey",
+        "Dirty yellow",
+        "Deep black"
+      ],
+      "cinematography": "Slow tracking shots, subtle camera shake, dramatic close-ups",
+      "sound_design": [
+        "Distant dog barking",
+        "Old bus engine noise",
+        "Metallic brake squeal",
+        "Ghostly female whisper",
+        "Sudden cinematic horror impact"
+      ],
+      "quality": "High-detail cinematic realism",
+      "mood": "Unsettling, mysterious and terrifying"
+    }
+  },
+  "dialogue": {
+    "driver": "இந்த நேரத்துல யாரு ஏறினா?",
+    "ghost": "அடுத்த நிறுத்தம்... உன் வீடு!",
+    "voice_style": "Soft, breathy, eerie Tamil female whisper"
+  },
+  "negative_prompt": [
+    "Cartoon appearance",
+    "Comedy",
+    "Bright daylight",
+    "Unrealistic facial expressions",
+    "Excessive gore",
+    "Distorted vehicle geometry",
+    "Unwanted text",
+    "Watermarks"
+  ],
+  "instagram": {
+    "hook": "நள்ளிரவு 3 மணிக்கு வந்த கடைசி பேருந்து... 😨",
+    "caption": "அந்தப் பேருந்தில் ஏறினவங்க யாருமே திரும்பி வரலையாம்... 👻",
+    "hashtags": [
+      "#TamilHorror",
+      "#TamilGhostStory",
+      "#HorrorReels",
+      "#TamilStories",
+      "#MidnightHorror"
+    ]
+  }
+}

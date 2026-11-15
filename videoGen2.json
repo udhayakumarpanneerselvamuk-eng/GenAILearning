@@ -1,0 +1,72 @@
+
+{
+  "project": {
+    "title": "கடைசி பேருந்து - பாகம் 2",
+    "english_title": "The Last Bus - The Dead Driver",
+    "episode": 2,
+    "genre": "Tamil supernatural psychological horror",
+    "duration": 10,
+    "aspect_ratio": "9:16",
+    "platform": "Instagram Reels",
+    "language": "Tamil"
+  },
+  "scala": {
+    "subject": {
+      "main_character": "Kumar, a terrified ghostly Tamil bus driver in an old khaki uniform",
+      "secondary_character": "A mysterious woman wearing a white saree",
+      "new_character": "An elderly village watchman holding an oil lantern"
+    },
+    "composition": {
+      "shot_1": "0-3 seconds: Close-up of Kumar looking into a cracked rear-view mirror, his face covered in sweat",
+      "shot_2": "3-6 seconds: The ghostly woman appears behind him and whispers into his ear",
+      "shot_3": "6-8 seconds: An old watchman appears outside the bus holding a lantern",
+      "shot_4": "8-10 seconds: The watchman looks directly at Kumar and screams"
+    },
+    "action": {
+      "sequence": "Kumar discovers an old newspaper describing his death ten years earlier. Suddenly, an elderly watchman knocks on the bus door. The watchman recognises Kumar and reveals that Kumar was not the only person who died in the accident.",
+      "final_twist": "The watchman whispers that Kumar's daughter is still travelling on the bus."
+    },
+    "location": {
+      "place": "Deserted rural road near Thiruvallur, Tamil Nadu",
+      "environment": "Abandoned bus stop, banyan tree, misty paddy fields",
+      "time": "3 AM"
+    },
+    "aesthetic": {
+      "style": "Photorealistic Tamil village supernatural horror",
+      "lighting": "Cold blue moonlight, flickering yellow lantern",
+      "camera": "Slow cinematic zoom, extreme close-ups",
+      "sound": "Heartbeat, bus engine, knocking sounds, eerie female whisper",
+      "mood": "Suspenseful, frightening, mysterious"
+    }
+  },
+  "dialogue": {
+    "watchman": "குமாரா... நீ மட்டும் சாகல!",
+    "kumar": "அப்போ... யாரு என்னோட கூட இருக்கா?",
+    "ghost": "உன் பொண்ணு..."
+  },
+  "ending": {
+    "visual": "A small girl's hand slowly appears from behind the last seat",
+    "audio": "A little girl whispers: அப்பா...",
+    "cliffhanger": "CUT TO BLACK"
+  },
+  "negative_prompt": [
+    "Cartoon",
+    "Comedy",
+    "Bright lighting",
+    "Unrealistic faces",
+    "Excessive gore",
+    "Unwanted subtitles",
+    "Watermarks"
+  ],
+  "instagram": {
+    "hook": "ஓட்டுநர் இறந்தது உண்மைதான்... ஆனால் அவன் மகள்?",
+    "caption": "அந்தப் பேருந்தில் இன்னொரு உயிர் இருக்கிறதா? 👻 Part 3 காத்திருங்கள்!",
+    "hashtags": [
+      "#TamilHorror",
+      "#TamilGhostStory",
+      "#Thiruvallur",
+      "#HorrorReels",
+      "#TamilSuspense"
+    ]
+  }
+}
